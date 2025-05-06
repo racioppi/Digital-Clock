@@ -55,6 +55,10 @@ Branch criado a partir do `main` (já atualizado com `html` e `css`) para trabal
 - Todos os branches de feature foram **mergeados via Pull Request** para o `main`.
 - Após cada merge, o **Netlify** fez o deploy automático da nova versão do projeto.
 
+### 🔗 Link do Projeto Online:
+
+🌐 [**https://leo-digital-clock.netlify.app/**](https://leo-digital-clock.netlify.app/)
+
 ---
 
 ## 🧹 Limpeza Final
